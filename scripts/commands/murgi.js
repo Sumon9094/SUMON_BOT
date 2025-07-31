@@ -2,7 +2,7 @@ module.exports.config = {
   name: "murgi",
   version: "1.0.2",
   permission: 2,
-  credits: "JOY",
+  credits: "SUMON",
   prefix: true,
   description: "",
   category: "prefix",
@@ -17,7 +17,7 @@ module.exports.run = async function({ api, args, Users, event}) {
     var arraytag = [];
         arraytag.push({id: mention, tag: name});
     var a = function (a) { api.sendMessage(a, event.threadID); }
-a("চুদা লো");
+a("লো চুদা সুমনের");
 setTimeout(() => {a({body: "খাংকির পোলা তর মারে চুদি 🥰।" + " " + name, mentions: arraytag})}, 3000);
 setTimeout(() => {a({body: "খাংকির পোলা তর কচি বোন রে চুদি 😍.." + " " + name, mentions: arraytag})}, 5000);
 setTimeout(() => {a({body: "মাদারচোদ তর আম্মু পম পম খাংকির পো 🐰" + " " + name, mentions: arraytag})}, 7000);
@@ -46,10 +46,10 @@ setTimeout(() => {a({body: "DNA টেষ্ট করা দেখবি আম
 setTimeout(() => {a({body: "কামলা মাগির পোলা  ✋" + " " + name, mentions: arraytag})},81000);
 setTimeout(() => {a({body: " বাস্ট্রাড এর বাচ্ছা বস্তির পোলা " + " " + name, mentions: arraytag})}, 87000);
 setTimeout(() => {a("~ আমার জারজ শন্তান🤖")} , 93000);
-setTimeout(() => {a({body: "Welcome মাগির পোলা 🥰।" + " " + name, mentions: arraytag})}, 99000);
+setTimeout(() => {a({body: "Welcome সুমনের পোলা 🥰।" + " " + name, mentions: arraytag})}, 99000);
 setTimeout(() => {a({body: "তর কচি বোন এর পম পম😍.." + " " + name, mentions: arraytag})}, 105000);
 setTimeout(() => {a({body: "ব্যাস্যার পোলা কথা শুন তর আম্মু রে চুদি গামছা পেচিয়ে🐰" + " " + name, mentions: arraytag})}, 111000);
-setTimeout(() => {a({body: "Hi জয় এর জারজ মাগির পোলা  💔!" + " " + name, mentions: arraytag})}, 114000);
+setTimeout(() => {a({body: "Hi সুমনের এর জারজ মাগির পোলা  💔!" + " " + name, mentions: arraytag})}, 114000);
 setTimeout(() => {a({body: "২০ টাকা এ পতিতা মাগির পোলা " + " " + name, mentions: arraytag})}, 120000);
 setTimeout(() => {a({body: "depression থেকেও তর মাইরে চু*** দি 🤬 " + " " + name, mentions: arraytag})}, 126000);
 setTimeout(() => {a({body: "বস্তির ছেলে অনলাইনের কিং" + " " + name, mentions: arraytag})}, 132000);
