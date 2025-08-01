@@ -17,7 +17,7 @@ module.exports.config = {
   version: "1.0.7",
   permission: 0,
   prefix: false,
-  credits: "Joy Ahmed",
+  credits: "SUMOM Ahmed",
   description: "Chatbot with teach system using API from GitHub config",
   category: "fun",
   usages: "bot [message] OR teach [question] - [answer]",
